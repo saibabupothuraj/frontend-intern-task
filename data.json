@@ -1,0 +1,14 @@
+[
+    {
+        "title": "HTML",
+        "description": "Structure of web pages"
+    },
+    {
+        "title": "CSS",
+        "description": "Styling and layout"
+    },
+    {
+        "title": "JavaScript",
+        "description": "Dynamic functionality"
+    }
+]
